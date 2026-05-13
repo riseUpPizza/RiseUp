@@ -4,4 +4,4 @@ permalink: "/thanks"
 layout: default
 ---
 
-thanks
+Thanks for reaching out! We'll get back to you shortly.

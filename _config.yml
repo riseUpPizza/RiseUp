@@ -24,7 +24,7 @@ defaults:
   values:
     order: ''
     price: ''
-url: https://www.riseuppizza.com/
+url: "http://riseuppizza.github.io/"
 baseurl: "/RiseUp"
 tagline: 
 description: Write an awesome description for your new site here. You can edit this

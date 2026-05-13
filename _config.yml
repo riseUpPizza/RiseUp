@@ -24,8 +24,8 @@ defaults:
   values:
     order: ''
     price: ''
-url: https://whatnotery.github.io/
-baseurl: "/Rise-Up"
+url: https://www.riseuppizza.com/
+baseurl: 
 tagline: 
 description: Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for Google search
@@ -45,8 +45,6 @@ navigation:
     url: "/menu"
   - title: Gallery
     url: "/gallery"
-  - title: Schedule
-    url: "/schedule"
   - title: Catering
     url: "/catering"
   - title: Weddings

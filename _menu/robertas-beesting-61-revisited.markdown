@@ -3,7 +3,7 @@ title: Roberta's Beesting 61 Revisited
 date: 2026-05-18 16:07:00 Z
 categories:
 - signature pizzas
-order: 8
+order: 7
 price: 30
 ---
 

@@ -14,7 +14,7 @@ Vegetables ($2 each):
 Banana Peppers, Pickled Jalepenos, Kalamata Olives, Spinach, Garlic, Basil, Seasonal Vegetable
 
 Cheeses ($3 each):
-3-Cheese Blend (included, Fresh Mozzarella, Whipped Ricotta, Extra Cheese, Vegan Cheese
+3-Cheese Blend (included), Fresh Mozzarella, Whipped Ricotta, Extra Cheese, Vegan Cheese
 
 Meats ($4 each):
 Pepperoni, Sausage, Sopressata, Seasonal Meat

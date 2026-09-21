@@ -25,11 +25,10 @@ defaults:
     order: ''
     price: ''
 url: https://www.riseuppizza.com/
-baseurl: ''
+baseurl: 
 tagline: 
-description: Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+description: 'Rise Up! Pizza makes Detroit Style pizzas on a sourdough crust with
+  unique ingredients. '
 calendar_link: https://calendar.proton.me/api/calendar/v1/url/-QYgQXisMhWJAQvgD9qOBq8NpKVDqHSwhTk7rgranMgu7ba0FpZyGZgBcObyBd6n67a2nCBcKQ7EEgxhxdByAw==/calendar.ics?CacheKey=IyhYS6I14HHc9QXMsilZ-w%3D%3D&PassphraseKey=FYiiO7PS-SuqtSyq-tRo_MJuCKOpHtHvyNvQgaKGMQM%3D
 social:
   links:
@@ -50,12 +49,12 @@ navigation:
   - title: Weddings
     url: "/weddings"
 open_hours:
-- Monday: Closed
+- Monday: 11-2 | 4-9
 - Tuesday: 11-2 | 4-9
-- Wednesday: 11-9
-- Thursday: 11-9
-- Friday: 11-9
-- Saturday: 11-9
+- Wednesday: 11-2 | 4-9
+- Thursday: 11-2|4-9
+- Friday: 11-2|4-9
+- Saturday: 11-2|4-9
 - Sunday: Closed
 sass:
   sourcemap: never

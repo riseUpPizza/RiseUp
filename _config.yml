@@ -26,7 +26,7 @@ defaults:
     price: ''
 url: https://www.riseuppizza.com/
 baseurl: 
-tagline: 
+tagline: The Only Pizza in Lexington
 description: 'Rise Up! Pizza makes Detroit Style pizzas on a sourdough crust with
   unique ingredients. Located at 471 Jefferson Street in Lexington KY with off street
   parking.  '
@@ -49,7 +49,6 @@ navigation:
     url: "/catering"
   - title: Weddings
     url: "/weddings"
-  Phone Number: 617-299-9567
 open_hours:
 - Monday: 11-2 | 4-9
 - Tuesday: 11-2 | 4-9

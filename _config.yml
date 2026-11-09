@@ -51,13 +51,12 @@ navigation:
   - title: Weddings
     url: "/weddings"
 open_hours:
-- 
 - Tuesday: 11-2 | 4-9
 - Wednesday: 11-2 | 4-9
 - Thursday: 11-2|4-9
 - Friday: 11-2|4-9
 - Saturday: 11-2|4-9
-- Sunday: Closed
+- Sunday - Monday: Closed
 sass:
   sourcemap: never
 postcss:
